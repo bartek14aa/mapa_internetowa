@@ -1,5 +1,6 @@
 # mapa_internetowa
 
+Projekt wykonałem jako zadanie zaliczeniowe na przedmiot kartografia internetowa.
 Celem projektu była wizualizacja infrastruktury drogowej i komunikacyjnej miasta 
 Leszno. Projekt wykonałem w oprogramowaniu QGIS. Dane wykorzystane w 
 opracowaniu pobrałem za pomocą wtyczki QuickOSM, następnie przyciąłem je do 
